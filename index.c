@@ -136,3 +136,4 @@ int index_status(const Index *idx) {
     return 0;
 }
 // Phase 3: Setup index loading logic
+// Phase 3: Implemented index save functionality
