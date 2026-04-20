@@ -219,3 +219,4 @@ int object_read(const ObjectID *id, ObjectType *type_out, void **data_out, size_
     free(raw);
     return 0;
 }
+// Phase 1: Setup object storage structure
