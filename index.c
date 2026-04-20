@@ -138,3 +138,4 @@ int index_status(const Index *idx) {
 // Phase 3: Setup index loading logic
 // Phase 3: Implemented index save functionality
 // Phase 3: Added blob storage during staging
+// Phase 3: Implemented index add for tracked files
