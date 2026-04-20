@@ -217,3 +217,4 @@ int tree_from_index(ObjectID *id_out) {
     free(entries);
     return rc;
 }
+// Phase 2: Setup tree parsing structure
